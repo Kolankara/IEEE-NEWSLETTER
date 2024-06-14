@@ -32,7 +32,6 @@ Curious about what's coming up next? Here's a brief overview of our event roadma
 
 Ongoing Technical Challenges: Put your skills to the test with our ongoing challenges designed to assess your foundational, specialized, and industry-specific knowledge.
 Upcoming Online Tests: Stay tuned for upcoming online tests that will further evaluate your capabilities and help us identify the top talents.
-Company Interviews: Shortlisted candidates will have the chance to shine in interviews with leading companies across Kerala. Choose your preferred location - Kochi, or Kozhikode - for a streamlined and convenient interview process.
-
+Company Interviews: Shortlisted candidates will have the chance to shine in interviews with leading companies across Kerala. Choose your preferred location - Kochi, or Kozhikode - for a streamlined and convenient.
 
 
