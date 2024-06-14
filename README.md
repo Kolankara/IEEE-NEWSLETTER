@@ -1,9 +1,9 @@
-IEEE LAUNCHPAD 2024 -IGNITE YOUR FUTURE!
+<h1 style="color:blue;">IEEE LAUNCHPAD 2024 -IGNITE YOUR FUTURE!
+</h1>
+<p> Welcome to our latest newsletter where we bring you the exciting updates and events from the heart of our community.</p>
 
-Welcome to our latest newsletter where we bring you the exciting updates and events from the heart of our community.
 
-
-IEEE LaunchPad Kerala is a dynamic platform that aims to empower and inspire the next generation of innovators and leaders in Kerala. Our mission is to foster a culture of creativity, collaboration, and entrepreneurship among students and professionals in the field of technology. IEEE Launchpad calling upcoming aspirants to join this event to step your carrier with new journey.
+<p>IEEE LaunchPad Kerala is a dynamic platform that aims to empower and inspire the next generation of innovators and leaders in Kerala. Our mission is to foster a culture of creativity, collaboration, and entrepreneurship among students and professionals in the field of technology. IEEE Launchpad calling upcoming aspirants to join this event to step your carrier with new journey.</p>
 
 
 Call to Action
